@@ -266,6 +266,7 @@ public class LayoutKalkulator extends javax.swing.JFrame {
 //    }
     }//GEN-LAST:event_ButtonHasilActionPerformed
 
+    //Ini Proses
     public void equal(){
         switch(pilih){
         case 1 :
